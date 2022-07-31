@@ -83,7 +83,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: 'https://github.com/Utkarsh-grow123/Utkarsh-grow123.github.io/blob/main/32393pic-min.v3.jpg'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/Utkarsh-grow123/Utkarsh-grow123.github.io/blob/main/32393pic-min.v3.jpg
+avatar: 'https://github.com/Utkarsh-grow123/Utkarsh-grow123.github.io/blob/main/32393pic-min.v3.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
