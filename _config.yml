@@ -80,7 +80,7 @@ theme_mode: dark  # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://github.com/Utkarsh-grow123/Utkarsh-grow123.github.io/blob/main/32393pic-min.v3.jpg
+img_cdn: 'https://github.com/Utkarsh-grow123/Utkarsh-grow123.github.io/blob/main/32393pic-min.v3.jpg'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://github.com/Utkarsh-grow123/Utkarsh-grow123.github.io/blob/main/32393pic-min.v3.jpg
